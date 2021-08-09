@@ -1,6 +1,6 @@
 # TSF-GRIP-Task1
 ## Task 1- Prediction using Supervised ML
-### Padmini Jain
+### Author- Padmini Jain
 #### Data source- "http://bit.ly/w-data"
 
 #### Probelm statement:-
