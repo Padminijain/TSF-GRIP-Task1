@@ -11,7 +11,7 @@ The first step performed was to import the necessary libraries and then the data
 After visualization, the data was split into Training and testing dataset. Linear Regression model was used for prediction.
 
 #### Conclusion:-
-Mean Absolute Error (MAE):- 4.4197278080276545
-Mean Squared Error (MSE):- 22.96509721270044
-Root Mean Squared Error (RMSE):- 4.792191274636316
+Mean Absolute Error (MAE):- 4.4197278080276545, 
+Mean Squared Error (MSE):- 22.96509721270044, 
+Root Mean Squared Error (RMSE):- 4.792191274636316.
 The predicted score is 83.12 if a students studies for 8.25 hours per day.
