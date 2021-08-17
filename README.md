@@ -14,4 +14,4 @@ After visualization, the data was split into Training and testing dataset. Linea
 Mean Absolute Error (MAE):- 4.4197278080276545, 
 Mean Squared Error (MSE):- 22.96509721270044, 
 Root Mean Squared Error (RMSE):- 4.792191274636316.
-The predicted score is 83.12 if a students studies for 8.25 hours per day.
+The predicted score is 92.92 if a students studies for 9.25 hours per day.
